@@ -1,0 +1,14 @@
+.fl{float: left;}
+.fr{float: right;}
+.clear{clear: both;}
+.mt{margin-top: 10px;}
+.mb{margin-bottom: 10px;}
+.ml{margin-left: 10px;}
+.mr{margin-right: 10px;}
+.pt{padding-top: 10px;}
+.pb{padding-bottom: 10px;}
+.pl{padding-left: 15px;}
+.pr{padding-right: 15px;}
+/* 文字颜色 标题颜色  */
+.tr{text-align: right;}
+.tc{text-align: center;}
